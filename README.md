@@ -1,3 +1,7 @@
 # PythonDieRoller
 Die roller program for python using PySide6 .
-The initial version is for Linux only.
+
+Binary in tarball is for Linux.
+
+Requires Python 3 and PySide6.
+
